@@ -8,7 +8,6 @@ export default [
       { option: "A - Focado, determinado e persistente", tipo: "A" },
     ],
   },
-
   {
     question: "Eu gosto de...",
     answers: [
@@ -19,7 +18,7 @@ export default [
     ],
   },
   {
-    question: "se você qioser se dar bem comigo...",
+    question: "se você quiser se dar bem comigo...",
     answers: [
       { option: "O - Me deixa saber sua expectativa", tipo: "O" },
       { option: "I - Me dê liberdade", tipo: "I" },
@@ -50,14 +49,14 @@ export default [
     answers: [
       { option: "C - Unidos venceremos, divididos perderemos", tipo: "C" },
       { option: "A - O ataque é melhor que a defesa", tipo: "A" },
-      { option: "I - è bom ser manso, mas andarr com um porrete", tipo: "I" },
+      { option: "I - É bom ser manso, mas andar com um porete", tipo: "I" },
       { option: "O - Um homem prevenido vale por dois", tipo: "O" },
     ],
   },
   {
     question: "Minha preocupaçao é...",
     answers: [
-      { option: "I - Gerara a ideia global", tipo: "I" },
+      { option: "I - Gerar a ideia global", tipo: "I" },
       { option: "C - Fazer com que as pessoas gostem", tipo: "C" },
       { option: "A - Fazer com que aconteça", tipo: "A" },
       { option: "O - Fazer com que funcione", tipo: "O" },
@@ -76,7 +75,7 @@ export default [
     question: "Eu gosto de...",
     answers: [
       { option: "C - Construir memórias", tipo: "C" },
-      { option: "I - Tornas as pessoas confortaveis", tipo: "I" },
+      { option: "I - Tornar as pessoas confortaveis", tipo: "I" },
       { option: "A - Fazer progresso", tipo: "A" },
       { option: "O - Fazer sentido", tipo: "O" },
     ],
