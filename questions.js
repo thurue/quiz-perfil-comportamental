@@ -4,7 +4,7 @@ export default [
     answers: [
       { option: "I - idealista, criativo e visionário", tipo: "I" },
       { option: "C - divertido, espirituoso e benéfico", tipo: "C" },
-      { option: "O - confiável, meticuloso e prervisível", tipo: "O" },
+      { option: "O - confiável, meticuloso e previsível", tipo: "O" },
       { option: "A - Focado, determinado e persistente", tipo: "A" },
     ],
   },
@@ -23,7 +23,7 @@ export default [
       { option: "O - Me deixa saber sua expectativa", tipo: "O" },
       { option: "I - Me dê liberdade", tipo: "I" },
       { option: "A - Lidere siga ou saia do caminho", tipo: "A" },
-      { option: "C - Seja amigavel, carrinhoso e compreensivo", tipo: "C" },
+      { option: "C - Seja amigável, carinhoso e compreensivo", tipo: "C" },
     ],
   },
   {
@@ -49,7 +49,7 @@ export default [
     answers: [
       { option: "C - Unidos venceremos, divididos perderemos", tipo: "C" },
       { option: "A - O ataque é melhor que a defesa", tipo: "A" },
-      { option: "I - É bom ser manso, mas andar com um porete", tipo: "I" },
+      { option: "I - É bom ser manso, mas andar com um porrete", tipo: "I" },
       { option: "O - Um homem prevenido vale por dois", tipo: "O" },
     ],
   },
@@ -75,7 +75,7 @@ export default [
     question: "Eu gosto de...",
     answers: [
       { option: "C - Construir memórias", tipo: "C" },
-      { option: "I - Tornar as pessoas confortaveis", tipo: "I" },
+      { option: "I - Tornar as pessoas confortáveis", tipo: "I" },
       { option: "A - Fazer progresso", tipo: "A" },
       { option: "O - Fazer sentido", tipo: "O" },
     ],
@@ -219,7 +219,7 @@ export default [
     question: "Eu penso que...",
     answers: [
       { option: "I - Não é fácil ficar encurralado", tipo: "I" },
-      { option: "A - Se você não tem considções de competir, não compita", tipo: "A" },
+      { option: "A - Se você não tem condições de competir, não compita", tipo: "A" },
       { option: "O - É preferível olhar, antes de pular", tipo: "O" },
       { option: "C - Duas cabeças pensam melhor do que uma", tipo: "C" },
     ],
